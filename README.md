@@ -16,7 +16,7 @@ This project implements an image segmentation model using TensorFlow and the Oxf
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/image-segmentation-pet-dataset.git
+    git clone https://github.com/Legedrid10/Image-Segmentation-using-tensor-flow.git
     cd image-segmentation-pet-dataset
     ```
 
